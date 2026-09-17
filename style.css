@@ -629,24 +629,6 @@ section:not(.hero) {
 .muted {
   font-size: 11px !important;
 }
-
-.qr-placeholder {
-  align-items: center;
-  background: var(--cream);
-  color: var(--deep-blue);
-  display: flex;
-  font-weight: 900;
-  height: 95px;
-  justify-content: center;
-  letter-spacing: 3px;
-  width: 95px;
-}
-
-.qr-area p {
-  font-size: 11px;
-  max-width: 150px;
-}
-
 .footer-bottom {
   border-top: 1px solid rgba(255, 255, 255, 0.12);
   color: #91adbc;
